@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @lim-yoona
-- 👀 I’m interested in C/C++/Python and deep learning.
-- 🌱 I’m currently learning to built my own website and NLP.
-- 💞️ I’m looking to collaborate on NLP.I am working on a project to convert natural language to IDL interface description language.
+- 👀 I am familiar with C++/Go. I’m interested in Distributed System and deep learning.
+- 🌱 I am currently passionate about participating in open source projects.
+- 💞️ I am committed to working on Golang projects, such as the TCP server framework.
 - 📫 How to reach me -----
-QQ:1994238842      email:yoonairmessi@gmail.com      Blog:www.ymiir.top
+QQ:1994238842      email:yoonairmessi@gmail.com      Blog:https://www.ymiir.top
 
 <!---
 lim-yoona/lim-yoona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
