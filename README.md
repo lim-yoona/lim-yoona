@@ -17,10 +17,11 @@ Programming languages I am familiar with:
 [![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=golang)](https://github.com/lim-yoona)
 
 ### Details
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lim-yoona&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lim-yoona&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lim-yoona&theme=aura)
+[![lim-yoona's GitHub stats](https://github-readme-stats.vercel.app/api?username=lim-yoona&theme=radical&show_icons=true&line_height=40)](https://github.com/lim-yoona/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lim-yoona&exclude_repo=Data-structure-programming,YueMengBlog)](https://github.com/lim-yoona/github-readme-stats)
 
+### Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lim-yoona&repo=msgpack)](https://github.com/lim-yoona/msgpack)
 
 <p align="center">
   <a href="https://github.com/lim-yoona">
@@ -31,3 +32,4 @@ Programming languages I am familiar with:
 lim-yoona/lim-yoona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
